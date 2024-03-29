@@ -8,15 +8,15 @@ https://github.com/Hantorism/2024-Advanced-C-study
 
 위 레포지토리를 fork합니다.
 
-<img width="591" alt="image" src="https://github.com/Hantorism/2024-Advanced-C-study/assets/70265177/8b6c2669-eb9d-45a8-9a9a-35cb12b86222">
+<img width="591" alt="image" src="https://github.com/Hantorism/2024-Advanced-C-study/assets/70265177/8c239c74-dd4d-4582-b34d-b124073c12fe">
 
 fork한 레포지토리의 주소를 복사합니다.
 
-<img width="537" alt="image" src="https://github.com/Hantorism/2024-Advanced-C-study/assets/70265177/b0ecb293-83b6-4d9d-abd8-a50ee2b7f471">
+<img width="537" alt="image" src="https://github.com/Hantorism/2024-Advanced-C-study/assets/70265177/ad26d550-4bbc-4a1b-bd9d-ff783eac83bc">
 
 복사한 주소로 git clone해 프로젝트를 시작합니다.
 
-<img width="1136" alt="image" src="https://github.com/Hantorism/2024-Advanced-C-study/assets/70265177/9a68ab17-23db-4847-b001-6ce797689171">
+<img width="1136" alt="image" src="https://github.com/Hantorism/2024-Advanced-C-study/assets/70265177/f1811db8-a3fd-4c02-a986-03394a0d1f19">
 
 ## 요구사항
 
@@ -39,3 +39,5 @@ fork한 레포지토리의 주소를 복사합니다.
 - 스켈레톤 코드를 수정해도 되긴 하지만 그대로 하는 것을 추천합니다.
 
 - 프로젝트를 잘 끝냈으면 코드의 다른 부분도 이해해보세요. 멀티 파일 빌드로 코드들을 분리하는 것, Makefile 같은 것들도 직접 구현하게 하려했는데 투머치인 것 같아 요구사항에서는 뺐습니다.
+
+- 스터디 같이 듣는 사람끼리 고민하면서 얘기하는 건 괜찮지만 코드는 보여주지도 말고, 보지도 마세요!!!
