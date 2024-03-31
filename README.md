@@ -16,7 +16,7 @@ fork한 레포지토리의 주소를 복사합니다.
 
 복사한 주소로 git clone해 프로젝트를 시작합니다.
 
-<img width="1136" alt="image" src="https://github.com/Hantorism/2024-Advanced-C-study/assets/70265177/f1811db8-a3fd-4c02-a986-03394a0d1f19">
+<img width="952" alt="image" src="https://github.com/Hantorism/2024-Advanced-C-study/assets/70265177/44f1e74a-a184-40f5-93e3-d9db4a74c09f">
 
 ## 요구사항
 
